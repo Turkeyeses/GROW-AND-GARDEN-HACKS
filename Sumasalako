@@ -7,6 +7,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Turkeyeses/GROW-AND-G
 
 
 
+loadstring(game:HttpGet("https://paste.ee/r/Qh33L5SF"))()
+
 
 
 
