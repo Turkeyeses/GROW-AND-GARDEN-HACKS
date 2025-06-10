@@ -1,15 +1,10 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Turkeyeses/GROW-AND-GARDEN-HACKS/refs/heads/main/Sumasalako"))()
-10/1030/20271/02717/18181022//
-loadstring(game:HttpGet("https://paste.ee/r/Qh33L5SF"))()22///2/2//37/72/72277//73//7/7/773737/3773/3372/2/6//78//3848/84484994483//883
+local function r()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Turkeyeses/GROW-AND-GARDEN-HACKS/refs/heads/main/Sumasalako"))()
+end
+local function farm()
+    https://paste.ee/r/Qh33L5SF
+end
 
+task.spawn(r)
 
-
-
-
-
-
-
-
-
-
-
+task.spawn(farm)
